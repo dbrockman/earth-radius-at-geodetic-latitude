@@ -1,3 +1,5 @@
+'use strict';
+
 const earthRadiusAtGeodeticLatitude = require('..');
 
 describe('when latitude is 0 (at the Equator)', () => {

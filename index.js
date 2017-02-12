@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * Estimate the Earth radius at given latitude.
  *
