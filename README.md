@@ -1,5 +1,7 @@
 # earth-radius-at-geodetic-latitude
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/earth-radius-at-geodetic-latitude.svg)](https://greenkeeper.io/)
+
 > Estimate the Earth radius at given latitude
 
 
