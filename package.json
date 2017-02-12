@@ -1,6 +1,6 @@
 {
   "name": "earth-radius-at-geodetic-latitude",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Estimate the Earth radius at given latitude",
   "main": "index.js",
   "files": [
